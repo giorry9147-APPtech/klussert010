@@ -1,0 +1,24 @@
+﻿MIGRATIE RAPPORT
+================
+Root URL: http://klussert010.nl/
+Gedetecteerd CMS/thema: WordPress
+Sitemap candidates: http://klussert010.nl/sitemap.xml, http://klussert010.nl/wp-sitemap.xml
+Mirrored HTML paginas: 1
+Gedownloade assets totaal: 62
+Assets per type:
+- fonts: 11
+- images: 47
+- css: 1
+- js: 3
+Mislukte downloads: 0
+Herschreven bestanden: 1
+Verificatie geslaagd: 1/1
+Resterende online afhankelijkheden:
+- http://www.w3.org/2000/svg
+- https://api.w.org/
+- https://s.w.org/images/core/emoji/17.0.2/72x72/
+- https://s.w.org/images/core/emoji/17.0.2/svg/
+- https://waterleider.nl/
+- https://wordpress.org/
+Lokaal openen:
+Open een lokale webserver in map 'C:\Users\31621\Desktop\klussert010\mirror' (bijv. VS Code Live Server) en start bij /index.html

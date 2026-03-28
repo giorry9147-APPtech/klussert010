@@ -1,0 +1,58 @@
+﻿{
+    "analysis":  {
+                     "root_url":  "http://klussert010.nl/",
+                     "detected_cms_or_theme":  "WordPress",
+                     "homepage_css_refs":  "http://klussert010.nl/wp-includes/blocks/navigation/style.min.css?ver=6.9",
+                     "homepage_js_refs":  [
+                                              "http://klussert010.nl/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=b0f909c3ec791c383210",
+                                              "http://klussert010.nl/wp-includes/js/comment-reply.min.js?ver=6.9"
+                                          ],
+                     "root_relative_hints":  [
+                                                 "/assets/",
+                                                 "/wp-content/"
+                                             ],
+                     "sitemap_candidates_found":  [
+                                                      "http://klussert010.nl/sitemap.xml",
+                                                      "http://klussert010.nl/wp-sitemap.xml"
+                                                  ],
+                     "sitemap_used_count":  2
+                 },
+    "mirrored_html_pages":  1,
+    "downloaded_assets_total":  62,
+    "downloaded_assets_by_type":  [
+                                      {
+                                          "type":  "fonts",
+                                          "count":  11
+                                      },
+                                      {
+                                          "type":  "images",
+                                          "count":  47
+                                      },
+                                      {
+                                          "type":  "css",
+                                          "count":  1
+                                      },
+                                      {
+                                          "type":  "js",
+                                          "count":  3
+                                      }
+                                  ],
+    "failed_downloads":  [
+
+                         ],
+    "rewritten_files_count":  1,
+    "rewritten_files":  "C:\\Users\\31621\\Desktop\\klussert010\\mirror\\index.html",
+    "remaining_online_dependencies":  [
+                                          "http://www.w3.org/2000/svg",
+                                          "https://api.w.org/",
+                                          "https://s.w.org/images/core/emoji/17.0.2/72x72/",
+                                          "https://s.w.org/images/core/emoji/17.0.2/svg/",
+                                          "https://waterleider.nl/",
+                                          "https://wordpress.org/"
+                                      ],
+    "verify_pass_count":  1,
+    "verify_total":  1,
+    "project_dir":  "C:\\Users\\31621\\Desktop\\klussert010",
+    "mirror_dir":  "C:\\Users\\31621\\Desktop\\klussert010\\mirror",
+    "open_local_instruction":  "Open een lokale webserver in map \u0027C:\\Users\\31621\\Desktop\\klussert010\\mirror\u0027 (bijv. VS Code Live Server) en start bij /index.html"
+}

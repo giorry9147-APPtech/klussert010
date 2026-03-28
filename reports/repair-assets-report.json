@@ -1,0 +1,17 @@
+﻿{
+    "scanned_html_files":  1,
+    "scanned_css_files":  1,
+    "discovered_asset_urls":  53,
+    "already_present":  49,
+    "downloaded_missing":  4,
+    "downloaded_urls":  [
+                            "http://klussert010.nl/wp-includes/blocks/navigation/style.min.css?ver=6.9",
+                            "http://klussert010.nl/wp-includes/js/comment-reply.min.js?ver=6.9",
+                            "http://klussert010.nl/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=b0f909c3ec791c383210",
+                            "http://klussert010.nl/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=8964710565a1d258501f"
+                        ],
+    "failed_count":  0,
+    "failed":  [
+
+               ]
+}
